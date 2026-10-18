@@ -1,47 +1,35 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-17T11:15:08.978315+00:00",
-  "digest_words": 254,
+  "generated_at": "2026-10-18T11:51:21.784202+00:00",
+  "digest_words": 250,
   "clusters": [
     {
-      "headline": "Egypt's Sisi declares his presidency will end in 2030",
+      "headline": "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen",
       "countries": [
-        "Egypt"
+        "Saudi Arabia"
       ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nEgypt's Sisi declares his presidency will end in 2030\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 10/17/2026 - 11:23\n\n        \n      \n    \n      \n    \n                'The Egyptian constitution will not be touched,' the president says in a speech",
+      "summary": "Riyadh\u2019s Kingdom Centre skyscraper ordered remote working for office tenants on Sunday following repeated Houthi attacks on Saudi Arabia, as the Saudi-led coalition said two pilots were killed in a crash near the Yemen border.\nThe imposing, 99-storey landmark announced \u201cmandatory\u201d remote working unt",
       "links": [
-        "https://www.middleeasteye.net/news/egypt-sisi-declares-his-presidency-will-end-2030",
-        "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-sisi-says-his-presidency-will-end-2030"
+        "https://www.scmp.com/news/world/middle-east/article/3371307/saudi-closes-riyadh-skyscraper-chopper-pilots-killed-near-yemen?utm_source=rss_feed",
+        "https://www.channelnewsasia.com/world/saudi-arabia-helicopter-crash-houthis-yemen-6469396"
       ]
     },
     {
-      "headline": "Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity",
-      "countries": [],
+      "headline": "Nigeria: Cash Transfer Office Cannot Identify 'Beneficiaries' of N33.75 Billion Disbursement - Audit Report",
+      "countries": [
+        "Nigeria"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] The AI 10 Billion Initiative has received a boost following a visit by a delegation from the United Nations Development Programme (UNDP) to the African Development Bank Group to move from launch to delivery.",
+      "summary": "[CJID] The National Cash Transfer Office (NCTO) said it paid &#x20a6;33.75 billion to 3.29 million citizens across 35 states in 2023. While there are no vouchers showing who received this money, the agency's accounts staff also blocked auditors from checking the bank records that would have confirme",
       "links": [
-        "https://allafrica.com/stories/202610150107.html"
-      ]
-    },
-    {
-      "headline": "Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery'",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery'\n\n    \n    \n\n          \n      \n      \n        Submitted by \nImran Mulla\n on \nSat, 10/17/2026 - 10:25\n\n        \n      \n    \n      \n    \n                The journalist and wife of ",
-      "links": [
-        "https://www.middleeasteye.net/news/sarah-helm-doubles-down-pro-israel-groups-urge-police-action-and-zack-polanski-praises-her"
+        "https://allafrica.com/stories/202610160003.html"
       ]
     },
     {
@@ -59,15 +47,17 @@
       ]
     },
     {
-      "headline": "TCM providers, practitioners can apply for accreditation from Oct 17; first 5 clinics granted status",
-      "countries": [],
+      "headline": "Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level",
+      "countries": [
+        "Singapore"
+      ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Health Minister Ong Ye Kung said Singapore was taking a practical approach to integrating Western medicine and traditional Chinese medicine while ensuring that treatments are backed by rigorous evidence.",
+      "summary": "Singapore's west has seen some of the highest haze readings in recent days, but experts say this may not continue as the situation remains dynamic.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/tcm-accreditation-providers-practitioners-clinics-6466746"
+        "https://www.channelnewsasia.com/singapore/haze-western-region-daily-routines-psi-businesses-6469406"
       ]
     },
     {
@@ -85,32 +75,6 @@
       ]
     },
     {
-      "headline": "Kenya: Altered Gazette Notice Falsely Shows Changes to the Mwananchi Party's Leadership in Kenya",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Africa Check] Altered gazette notice falsely shows changes to the Mwananchi Party's leadership in Kenya",
-      "links": [
-        "https://allafrica.com/stories/202610160464.html"
-      ]
-    },
-    {
-      "headline": "Former Dior Men artistic director Kim Jones is reviving his own label with a Hong Kong flagship",
-      "countries": [],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The British designer is returning to the brand he first launched in 2003, with a new collection due in 2027 and more stores across Asia planned.",
-      "links": [
-        "https://www.channelnewsasia.com/obsessions/kim-jones-dior-namesake-label-hong-kong-6467906"
-      ]
-    },
-    {
       "headline": "Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026",
       "countries": [
         "Spain"
@@ -125,15 +89,31 @@
       ]
     },
     {
-      "headline": "Reporter\u2019s notebook: Kimi\u2019s AI credit card turns spending into computing quotas \u2013 with limits",
-      "countries": [],
+      "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+      "countries": [
+        "France"
+      ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "China\u2019s artificial intelligence companies have spent years persuading consumers to pay for their technology. Now, Moonshot AI, the start-up behind Kimi, is taking a different approach: offering AI computing benefits through a credit card.\nThe company has teamed up with the Agricultural Bank of China",
+      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
       "links": [
-        "https://www.scmp.com/tech/tech-trends/article/3371226/reporters-notebook-kimis-ai-credit-card-turns-spending-computing-quotas-limits?utm_source=rss_feed"
+        "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
+      "countries": [
+        "France"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested over 1,000 people amid chaotic scenes.",
+      "links": [
+        "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -161,7 +141,33 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
+      "countries": [],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-17 (extractive mode)\n\n* Egypt's Sisi declares his presidency will end in 2030 (Section Feed, 2 outlets)\n* Africa: African Development Bank and UNDP Advance Ai 10 Billion Initiative to Turn Africa's Ai Potential Into Productivity (AllAfrica News: Latest, 1 outlets)\n* Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery' (Section Feed, 1 outlets)\n* Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions (World | Deutsche Welle, 1 outlets)\n* TCM providers, practitioners can apply for accreditation from Oct 17; first 5 clinics granted status (Latest News, 1 outlets)\n* Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners (AllAfrica News: Latest, 1 outlets)\n* Kenya: Altered Gazette Notice Falsely Shows Changes to the Mwananchi Party's Leadership in Kenya (AllAfrica News: Latest, 1 outlets)\n* Former Dior Men artistic director Kim Jones is reviving his own label with a Hong Kong flagship (Latest News, 1 outlets)\n* Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026 (AllAfrica News: Latest, 1 outlets)\n* Reporter\u2019s notebook: Kimi\u2019s AI credit card turns spending into computing quotas \u2013 with limits (News - South China Morning Post, 1 outlets)\n* Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing (World | Deutsche Welle, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-18 (extractive mode)\n\n* Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen (News - South China Morning Post, 2 outlets)\n* Nigeria: Cash Transfer Office Cannot Identify 'Beneficiaries' of N33.75 Billion Disbursement - Audit Report (AllAfrica News: Latest, 1 outlets)\n* Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions (World | Deutsche Welle, 1 outlets)\n* Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level (Latest News, 1 outlets)\n* Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners (AllAfrica News: Latest, 1 outlets)\n* Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026 (AllAfrica News: Latest, 1 outlets)\n* Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News, 1 outlets)\n* France: Protesters clash with police in nationwide protests, amid rising social polarization (World | Deutsche Welle, 1 outlets)\n* Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing (World | Deutsche Welle, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)\n* Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News, 1 outlets)"
 }
