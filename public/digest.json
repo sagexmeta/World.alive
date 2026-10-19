@@ -1,131 +1,162 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-18T11:51:21.784202+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-10-19T14:08:37.239920+00:00",
+  "digest_words": 259,
   "clusters": [
     {
-      "headline": "Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen",
+      "headline": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death",
       "countries": [
-        "Saudi Arabia"
+        "Kenya"
       ],
       "regions": [
-        "Asia"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "Riyadh\u2019s Kingdom Centre skyscraper ordered remote working for office tenants on Sunday following repeated Houthi attacks on Saudi Arabia, as the Saudi-led coalition said two pilots were killed in a crash near the Yemen border.\nThe imposing, 99-storey landmark announced \u201cmandatory\u201d remote working unt",
+      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
       "links": [
-        "https://www.scmp.com/news/world/middle-east/article/3371307/saudi-closes-riyadh-skyscraper-chopper-pilots-killed-near-yemen?utm_source=rss_feed",
-        "https://www.channelnewsasia.com/world/saudi-arabia-helicopter-crash-houthis-yemen-6469396"
+        "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Nigeria: Cash Transfer Office Cannot Identify 'Beneficiaries' of N33.75 Billion Disbursement - Audit Report",
+      "headline": "World Food Programme stops provision to half a million people in Gaza over lack of funding",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nWorld Food Programme stops provision to half a million people in Gaza over lack of funding\n\n    \n    \n\n        \n    \n                The World Food Programme (WFP) has announced that it is ending food aid for more than 500,000&nbsp;Palestinians&nbsp;in Gaza due to lack of funding.",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-stops-provision-half-million-people-gaza-over-lack",
+        "https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding"
+      ]
+    },
+    {
+      "headline": "Met Police rules pro-Palestine Action post by Sarah Helm not criminal",
+      "countries": [],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nMet Police rules pro-Palestine Action post by Sarah Helm not criminal\n\n    \n    \n\n        \n    \n                London\u2019s&nbsp;Metropolitan Police&nbsp;has said it will take no action over a social media post by the wife of the&nbsp;UK&nbsp;prime minister\u2019s national security advise",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/met-police-rules-pro-palestine-action-post-sarah-helm-not-criminal",
+        "https://www.middleeasteye.net/news/met-police-rules-palestine-action-post-uk-pm-advisor-wife-not-criminal"
+      ]
+    },
+    {
+      "headline": "Exiled critic of Rwandan president found beheaded",
+      "countries": [],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "West Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid",
       "countries": [
-        "Nigeria"
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nWest Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid\n\n    \n    \n\n        \n    \n                Israeli troops have detained several Palestinians, including teachers, and issued demoilition notices across ",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-forces-detain-palestinian-teachers-and-issue"
+      ]
+    },
+    {
+      "headline": "East Africa: Ghana Set to Overtake Ethiopia As Africa's Eighth-Largest Economy After Kenya Takes East Africa Lead",
+      "countries": [
+        "Ethiopia",
+        "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[CJID] The National Cash Transfer Office (NCTO) said it paid &#x20a6;33.75 billion to 3.29 million citizens across 35 states in 2023. While there are no vouchers showing who received this money, the agency's accounts staff also blocked auditors from checking the bank records that would have confirme",
+      "summary": "[Addis Standard] Addis Abeba -- Ghana is projected to overtake Ethiopia as Africa's eighth-largest economy in 2026, with its gross domestic product (GDP) forecast to reach US$128.64 billion, exceeding Ethiopia's projected US$127.15 billion by US$1.49 billion, according to the International Monetary ",
       "links": [
-        "https://allafrica.com/stories/202610160003.html"
+        "https://allafrica.com/stories/202610190344.html"
       ]
     },
     {
-      "headline": "Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions",
+      "headline": "Nigeria: Dangote Group Didn't Advertise Thousands of Jobs At Kenyan Refinery - Ads Circulating On Facebook Fake",
       "countries": [
-        "Saudi Arabia"
+        "Nigeria",
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Africa Check] Dangote Group didn't advertise thousands of jobs at Kenyan refinery - ads circulating on Facebook fake",
+      "links": [
+        "https://allafrica.com/stories/202610190245.html"
+      ]
+    },
+    {
+      "headline": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program",
+      "countries": [
+        "Thailand"
       ],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "As Yemen's Iran-backed Houthis continue to target Saudi Arabia, Riyadh's vulnerability threatens its claim on regional and religious leadership \u2014 as well as its standing as an economic powerhouse.",
+      "summary": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
       "links": [
-        "https://www.dw.com/en/houthi-attacks-on-strategic-saudi-assets-threaten-riyadh-s-regional-leadership-and-economic-ambitions/a-79680200?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level",
+      "headline": "Marco Rubio visits India this week, with a trip to the world's largest oil refinery topping the agenda",
       "countries": [
-        "Singapore"
+        "India"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
+      "links": [
+        "https://www.dw.com/en/marco-rubio-visits-india-this-week-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Israel arrests 10 settlers over attacks on US journalist and European officials in West Bank",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nIsrael arrests 10 settlers over attacks on US journalist and European officials in West Bank\n\n    \n    \n\n          \n      \n      \n        Submitted by \nNadav Rapaport\n on \nMon, 10/19/2026 - 12:33\n\n        \n      \n    \n      \n    \n                The arrests come amid mounting inte",
+      "links": [
+        "https://www.middleeasteye.net/news/israel-arrest-settlers-attacks-us-journalist-european-officials-west-bank"
+      ]
+    },
+    {
+      "headline": "Seeking men\u2019s approval? Chinese tennis star criticised for glamorous photo shoot with trophy",
+      "countries": [
+        "China"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Singapore's west has seen some of the highest haze readings in recent days, but experts say this may not continue as the situation remains dynamic.",
+      "summary": "After Chinese tennis player Zheng Qinwen won the China Open in early October, a series of photos showing her in a white dress and studded high heels, holding the trophy on the Great Wall, unexpectedly drew criticism from female internet users who accused the athlete of trying to please men and of no",
       "links": [
-        "https://www.channelnewsasia.com/singapore/haze-western-region-daily-routines-psi-businesses-6469406"
-      ]
-    },
-    {
-      "headline": "Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners",
-      "countries": [
-        "Nigeria"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Premium Times] President Tinubu urged the Senate to expedite the nominees' confirmation in view of the forthcoming general elections next January.",
-      "links": [
-        "https://allafrica.com/stories/202610160535.html"
-      ]
-    },
-    {
-      "headline": "Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026",
-      "countries": [
-        "Spain"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Africa Check] No, Spain did not introduce visa-free travel for eight African countries in April 2026",
-      "links": [
-        "https://allafrica.com/stories/202610160465.html"
-      ]
-    },
-    {
-      "headline": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "France: Protesters clash with police in nationwide protests, amid rising social polarization",
-      "countries": [
-        "France"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Unrest broke out in parts of France as students, trade unionists and Yellow Vest activists took to the streets to protest high prices and inequality. Police arrested over 1,000 people amid chaotic scenes.",
-      "links": [
-        "https://www.dw.com/en/france-protesters-clash-with-police-in-nationwide-protests-amid-rising-social-polarization/a-79685584?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "US police have praised the actions of three people who cut short a deadly shooting at a school in the state of Oregon. Three children and a teacher were killed in the attack, carried out by a former pupil at the school.",
-      "links": [
-        "https://www.dw.com/en/oregon-school-shooting-police-praise-heroism-of-those-who-intervened-to-stop-more-killing/a-79685302?maca=en-rss-en-world-4025-rdf"
+        "https://www.scmp.com/news/people-culture/china-personalities/article/3371350/seeking-male-approval-chinese-tennis-star-criticised-glamorous-photo-shoot-trophy?utm_source=rss_feed"
       ]
     },
     {
@@ -141,33 +172,7 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
-    },
-    {
-      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-      "countries": [
-        "Kenya"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Satellite images give clues about how Kim spends his holidays - something far out of reach for most North Koreans.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss"
-      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-18 (extractive mode)\n\n* Saudi closes Riyadh skyscraper as chopper pilots killed near Yemen (News - South China Morning Post, 2 outlets)\n* Nigeria: Cash Transfer Office Cannot Identify 'Beneficiaries' of N33.75 Billion Disbursement - Audit Report (AllAfrica News: Latest, 1 outlets)\n* Houthi attacks on strategic Saudi assets threaten Riyadh's regional leadership and economic ambitions (World | Deutsche Welle, 1 outlets)\n* Haze disrupts daily routines, hits businesses in Singapore's west as PSI reaches very unhealthy level (Latest News, 1 outlets)\n* Nigeria: Tinubu Nominates Four New INEC National Commissioners, Two Resident Electoral Commissioners (AllAfrica News: Latest, 1 outlets)\n* Africa: No, Spain Did Not Introduce Visa-Free Travel for Eight African Countries in April 2026 (AllAfrica News: Latest, 1 outlets)\n* Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting (BBC News, 1 outlets)\n* France: Protesters clash with police in nationwide protests, amid rising social polarization (World | Deutsche Welle, 1 outlets)\n* Oregon school shooting: Police praise 'heroism' of those who intervened to stop more killing (World | Deutsche Welle, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)\n* Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-19 (extractive mode)\n\n* Judgement day for Kenya pastor accused of ordering parents to starve their children to death (BBC News, 2 outlets)\n* World Food Programme stops provision to half a million people in Gaza over lack of funding (Section Feed, 2 outlets)\n* Met Police rules pro-Palestine Action post by Sarah Helm not criminal (Section Feed, 2 outlets)\n* Exiled critic of Rwandan president found beheaded (BBC News, 2 outlets)\n* West Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid (Section Feed, 1 outlets)\n* East Africa: Ghana Set to Overtake Ethiopia As Africa's Eighth-Largest Economy After Kenya Takes East Africa Lead (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Dangote Group Didn't Advertise Thousands of Jobs At Kenyan Refinery - Ads Circulating On Facebook Fake (AllAfrica News: Latest, 1 outlets)\n* 'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program (World | Deutsche Welle, 1 outlets)\n* Marco Rubio visits India this week, with a trip to the world's largest oil refinery topping the agenda (World | Deutsche Welle, 1 outlets)\n* Israel arrests 10 settlers over attacks on US journalist and European officials in West Bank (Section Feed, 1 outlets)\n* Seeking men\u2019s approval? Chinese tennis star criticised for glamorous photo shoot with trophy (News - South China Morning Post, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
 }
