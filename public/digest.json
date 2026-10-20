@@ -1,48 +1,22 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-19T14:08:37.239920+00:00",
-  "digest_words": 259,
+  "generated_at": "2026-10-20T12:22:18.459160+00:00",
+  "digest_words": 240,
   "clusters": [
     {
-      "headline": "Judgement day for Kenya pastor accused of ordering parents to starve their children to death",
+      "headline": "Residents warned not to drink tap water after hundreds fall sick near South Africa capital",
       "countries": [
-        "Kenya"
+        "South Africa"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Self-proclaimed pastor Paul Mackenzie faces 191 murder charges - all but one of them children.",
+      "summary": "More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "World Food Programme stops provision to half a million people in Gaza over lack of funding",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nWorld Food Programme stops provision to half a million people in Gaza over lack of funding\n\n    \n    \n\n        \n    \n                The World Food Programme (WFP) has announced that it is ending food aid for more than 500,000&nbsp;Palestinians&nbsp;in Gaza due to lack of funding.",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/world-food-programme-stops-provision-half-million-people-gaza-over-lack",
-        "https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding"
-      ]
-    },
-    {
-      "headline": "Met Police rules pro-Palestine Action post by Sarah Helm not criminal",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "\n\n  \n      \n      \nMet Police rules pro-Palestine Action post by Sarah Helm not criminal\n\n    \n    \n\n        \n    \n                London\u2019s&nbsp;Metropolitan Police&nbsp;has said it will take no action over a social media post by the wife of the&nbsp;UK&nbsp;prime minister\u2019s national security advise",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/met-police-rules-pro-palestine-action-post-sarah-helm-not-criminal",
-        "https://www.middleeasteye.net/news/met-police-rules-palestine-action-post-uk-pm-advisor-wife-not-criminal"
+        "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -60,93 +34,61 @@
       ]
     },
     {
-      "headline": "West Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid",
+      "headline": "Singapore-listed First Resources welcomes authorities' probe over haze links, including on-ground checks",
       "countries": [
-        "Israel"
+        "Singapore"
       ],
       "regions": [
-        "Middle East"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nWest Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid\n\n    \n    \n\n        \n    \n                Israeli troops have detained several Palestinians, including teachers, and issued demoilition notices across ",
+      "summary": "The palm oil producer said it is confident that an objective review of the available evidence will prove that it does not engage in any land clearing by fire, whether directly or indirectly.&nbsp;",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/west-bank-israeli-forces-detain-palestinian-teachers-and-issue"
+        "https://www.channelnewsasia.com/singapore/haze-indonesia-palm-oil-first-resources-6475121"
       ]
     },
     {
-      "headline": "East Africa: Ghana Set to Overtake Ethiopia As Africa's Eighth-Largest Economy After Kenya Takes East Africa Lead",
+      "headline": "'Still have to work no matter what': Food delivery riders torn between health and income during haze",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Food delivery riders say they have not been penalised for delays during the haze, but some worry that slower deliveries could affect their earnings.\n&nbsp;",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/food-delivery-riders-health-income-haze-platform-workers-6474361"
+      ]
+    },
+    {
+      "headline": "Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases",
       "countries": [
-        "Ethiopia",
         "Kenya"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- Ghana is projected to overtake Ethiopia as Africa's eighth-largest economy in 2026, with its gross domestic product (GDP) forecast to reach US$128.64 billion, exceeding Ethiopia's projected US$127.15 billion by US$1.49 billion, according to the International Monetary ",
+      "summary": "[Africa CDC] Addis Ababa, Ethiopia, 17 October 2026",
       "links": [
-        "https://allafrica.com/stories/202610190344.html"
+        "https://allafrica.com/stories/202610190009.html"
       ]
     },
     {
-      "headline": "Nigeria: Dangote Group Didn't Advertise Thousands of Jobs At Kenyan Refinery - Ads Circulating On Facebook Fake",
+      "headline": "South Africa: From First Jab to the Next - The Data System Tracking South Africa's LEN Roll-Out",
       "countries": [
-        "Nigeria",
-        "Kenya"
+        "South Africa"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Africa Check] Dangote Group didn't advertise thousands of jobs at Kenyan refinery - ads circulating on Facebook fake",
+      "summary": "[Bhekisisa] South Africa's LEN roll-out isn't just about getting six-monthly HIV prevention jabs into people's arms. We also need to know whether people return for their next dose, whether clinics have enough stock and who is being left behind. A digital system linking LEN clinics will help us find ",
       "links": [
-        "https://allafrica.com/stories/202610190245.html"
+        "https://allafrica.com/stories/202610200218.html"
       ]
     },
     {
-      "headline": "'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program",
-      "countries": [
-        "Thailand"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "A year ago, Thailand granted long-staying refugees from Myanmar the right to work legally. Refugees and rights groups welcome the move but say the program's first year has exposed significant shortcomings.",
-      "links": [
-        "https://www.dw.com/en/we-don-t-have-to-wait-for-others-to-support-us-myanmar-refugees-find-hope-in-thailand-s-work-program/a-79697921?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Marco Rubio visits India this week, with a trip to the world's largest oil refinery topping the agenda",
-      "countries": [
-        "India"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "A visit to India this week by Washington's top diplomat will skip New Delhi and instead include the world's largest oil refinery, which processes massive amounts of Russian crude. Is Trump looking for a new deal?",
-      "links": [
-        "https://www.dw.com/en/marco-rubio-visits-india-this-week-with-a-trip-to-the-world-s-largest-oil-refinery-topping-the-agenda/a-79699826?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Israel arrests 10 settlers over attacks on US journalist and European officials in West Bank",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsrael arrests 10 settlers over attacks on US journalist and European officials in West Bank\n\n    \n    \n\n          \n      \n      \n        Submitted by \nNadav Rapaport\n on \nMon, 10/19/2026 - 12:33\n\n        \n      \n    \n      \n    \n                The arrests come amid mounting inte",
-      "links": [
-        "https://www.middleeasteye.net/news/israel-arrest-settlers-attacks-us-journalist-european-officials-west-bank"
-      ]
-    },
-    {
-      "headline": "Seeking men\u2019s approval? Chinese tennis star criticised for glamorous photo shoot with trophy",
+      "headline": "China celebrities speak out on mental health diagnoses to seek authentic connections with fans",
       "countries": [
         "China"
       ],
@@ -154,9 +96,47 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "After Chinese tennis player Zheng Qinwen won the China Open in early October, a series of photos showing her in a white dress and studded high heels, holding the trophy on the Great Wall, unexpectedly drew criticism from female internet users who accused the athlete of trying to please men and of no",
+      "summary": "An increasing number of Chinese celebrities are voluntarily sharing their histories of mental illness, rather than following the previous practice of keeping them hidden, in what some see as an effort to win empathy and audience support.\nThese conditions include depression, anxiety, attention-defici",
       "links": [
-        "https://www.scmp.com/news/people-culture/china-personalities/article/3371350/seeking-male-approval-chinese-tennis-star-criticised-glamorous-photo-shoot-trophy?utm_source=rss_feed"
+        "https://www.scmp.com/news/people-culture/china-personalities/article/3371507/china-celebrities-speak-out-mental-health-diagnoses-seek-authentic-connections-fans"
+      ]
+    },
+    {
+      "headline": "MOM issues new guidelines for employers to adjust outdoor work based on hourly PM2.5 readings",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The additional guidance complements existing guidelines based on the 24-hour PSI forecast, said the manpower ministry.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/mom-guidelines-pm25-outdoor-work-6475416"
+      ]
+    },
+    {
+      "headline": "Indonesian President Prabowo marks 2 years in office with economic gains, but challenges loom",
+      "countries": [
+        "Indonesia"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "As Indonesian President Prabowo Subianto&nbsp;enters his third year in office, observers say the challenge will be to translate his ambitious promises into tangible results while balancing public expectations with economic and political stability.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/indonesia-president-prabowo-subianto-2-years-in-office-economic-gains-challenges-6474906"
+      ]
+    },
+    {
+      "headline": "Exclusive-Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/business/exclusive-qualcomm-cut-jobs-worldwide-in-performance-focused-layoffs-internal-memo-shows-6475341"
       ]
     },
     {
@@ -172,7 +152,21 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Burnham rejects Corbyn's call for public inquiry into 'British complicity' in Gaza genocide",
+      "countries": [
+        "United Kingdom"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \nBurnham rejects Corbyn's call for public inquiry into 'British complicity' in Gaza genocide\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nTue, 10/20/2026 - 11:20\n\n        \n      \n    \n      \n    \n                The former Labour leader wrote to the pri",
+      "links": [
+        "https://www.middleeasteye.net/news/burnham-rejects-jeremy-corbyns-call-public-inquiry-british-complicity-gaza-genocide"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-19 (extractive mode)\n\n* Judgement day for Kenya pastor accused of ordering parents to starve their children to death (BBC News, 2 outlets)\n* World Food Programme stops provision to half a million people in Gaza over lack of funding (Section Feed, 2 outlets)\n* Met Police rules pro-Palestine Action post by Sarah Helm not criminal (Section Feed, 2 outlets)\n* Exiled critic of Rwandan president found beheaded (BBC News, 2 outlets)\n* West Bank: Israeli forces detain Palestinian teachers and issue widespread demolition notices, while settlers attempt school raid (Section Feed, 1 outlets)\n* East Africa: Ghana Set to Overtake Ethiopia As Africa's Eighth-Largest Economy After Kenya Takes East Africa Lead (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Dangote Group Didn't Advertise Thousands of Jobs At Kenyan Refinery - Ads Circulating On Facebook Fake (AllAfrica News: Latest, 1 outlets)\n* 'We don't have to wait for others to support us': Myanmar refugees find hope in Thailand's work program (World | Deutsche Welle, 1 outlets)\n* Marco Rubio visits India this week, with a trip to the world's largest oil refinery topping the agenda (World | Deutsche Welle, 1 outlets)\n* Israel arrests 10 settlers over attacks on US journalist and European officials in West Bank (Section Feed, 1 outlets)\n* Seeking men\u2019s approval? Chinese tennis star criticised for glamorous photo shoot with trophy (News - South China Morning Post, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-20 (extractive mode)\n\n* Residents warned not to drink tap water after hundreds fall sick near South Africa capital (BBC News, 2 outlets)\n* Exiled critic of Rwandan president found beheaded (BBC News, 2 outlets)\n* Singapore-listed First Resources welcomes authorities' probe over haze links, including on-ground checks (Latest News, 1 outlets)\n* 'Still have to work no matter what': Food delivery riders torn between health and income during haze (Latest News, 1 outlets)\n* Africa: Africa CDC Reaffirms Support to Kenya Following Confirmation of Four Additional Ebola Cases (AllAfrica News: Latest, 1 outlets)\n* South Africa: From First Jab to the Next - The Data System Tracking South Africa's LEN Roll-Out (AllAfrica News: Latest, 1 outlets)\n* China celebrities speak out on mental health diagnoses to seek authentic connections with fans (News - South China Morning Post, 1 outlets)\n* MOM issues new guidelines for employers to adjust outdoor work based on hourly PM2.5 readings (Latest News, 1 outlets)\n* Indonesian President Prabowo marks 2 years in office with economic gains, but challenges loom (Latest News, 1 outlets)\n* Exclusive-Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows (Latest News, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Burnham rejects Corbyn's call for public inquiry into 'British complicity' in Gaza genocide (Section Feed, 1 outlets)"
 }
