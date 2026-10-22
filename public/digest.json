@@ -1,86 +1,109 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-21T12:31:30.021418+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-10-22T12:36:39.722154+00:00",
+  "digest_words": 274,
   "clusters": [
     {
-      "headline": "Sudan army drones hit mourners and fuel market killing more than 300 people, sources say",
+      "headline": "Two European women held captive for more than a year in Niger freed in Libya",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.",
+      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Australian MP Helen Haines loses both legs after car attack as suspect appears in court",
-      "countries": [
-        "Australia"
-      ],
-      "regions": [
-        "Europe",
-        "Middle East"
-      ],
-      "outlets": 2,
-      "summary": "Doctors have amputated both of Helen Haines legs after the Australian lawmaker was hit in an apparent deliberate attack. The suspected driver involved in the attack has appeared in court.",
-      "links": [
-        "https://www.dw.com/en/australian-mp-helen-haines-loses-both-legs-after-car-attack-as-suspect-appears-in-court/a-79697660?maca=en-rss-en-world-4025-rdf",
-        "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss"
-      ]
-    },
-    {
-      "headline": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+      "headline": "Zimbabwe: Mnangagwa, Angel Caught Up in Another Al Jazeera Investigation That Reveals Zimbabwean Govt Paid UK Terrorist Groups to Force Lifting of Sanctions",
       "countries": [],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.",
+      "outlets": 1,
+      "summary": "[New Zimbabwe] President Emmerson Mnangagwa's advisor Uebert Angel has been caught up in another Al Jazeera investigation that reveals as much as US$13,000 was paid for a fake rally on the sidelines of COP26, seeking to portray British people's support for a UK-Zimbabwe relationship.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202610220207.html"
       ]
     },
     {
-      "headline": "Kenya cult leader's children still being starved weeks before trial, son says",
+      "headline": "Africa: Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants",
       "countries": [
-        "Kenya"
+        "Ethiopia"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "Dan Mackenzie initially defended his father but now says he felt he had to report his own grandmother.",
+      "outlets": 1,
+      "summary": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC) and Ethiopian Airlines have partnered to offer a 20% discount on air tickets to participants attending the Fifth International Conference on Public Health in Africa (CPHIA 2026) who are funding their own participation.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6d7q2rxqxgxo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202610220009.html"
       ]
     },
     {
-      "headline": "Swimmer, 65, killed in shark attack off South Africa's east coast",
+      "headline": "South Africa: Black Market Weight-Loss Drug Sellers Are Moving Fast. South Africa's Regulators Are Struggling To Keep Up",
       "countries": [
         "South Africa"
       ],
       "regions": [
-        "Africa",
-        "Europe"
+        "Africa"
       ],
-      "outlets": 2,
-      "summary": "Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.",
+      "outlets": 1,
+      "summary": "[Bhekisisa] South African regulators have won an important court battle against a pharmacy making its own versions of popular weight-loss injections. But illegal and experimental drugs are still being sold openly, while new rules to crack down on the trade are months away. Why is the country struggl",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss"
+        "https://allafrica.com/stories/202610220121.html"
       ]
     },
     {
-      "headline": "OCBC to become first non-Malaysian bank to allow Singapore saving accounts to hold ringgit from Oct 23",
+      "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "countries": [
+        "United States",
+        "China",
+        "Russia",
+        "Ukraine"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "links": [
+        "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "South Africa: Bronkhorstspruit Water Crisis Exposes a National Pattern of Municipal Failure and Impunity",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[Daily Maverick] The Bronkhorstspruit water crisis, which has sickened about 450 people, exposes deep-rooted failures in local government, poor oversight and a culture of non-accountability that puts public health at risk. Despite promises of disciplinary action, political patronage and weak enforce",
+      "links": [
+        "https://allafrica.com/stories/202610220062.html"
+      ]
+    },
+    {
+      "headline": "Zimbabwe: 200,000 Zimbabweans Have So Far Fled South Africa's Anti-Migrant Protests - Cabinet Told",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[New Zimbabwe] Just under 200,000 Zimbabweans have so far fled South Africa's anti-migrant protests, according to the government.",
+      "links": [
+        "https://allafrica.com/stories/202610220074.html"
+      ]
+    },
+    {
+      "headline": "Singapore\u2019s Toh Wei Soong bags silver in 100m backstroke S7, his 4th medal at Asian Para Games",
       "countries": [
         "Singapore"
       ],
@@ -88,47 +111,36 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Customers can spend the ringgit using OCBC debit cards or withdraw the currency at ATMs in Malaysia.",
+      "summary": "Toh now has a total of four medals at the Games this year, but no gold.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/ocbc-malaysian-ringgit-multi-currency-6478511"
+        "https://www.channelnewsasia.com/sport/toh-wei-soong-silver-asian-para-games-singapore-6482391"
       ]
     },
     {
-      "headline": "Sudan: As Sudan War Spills Into Central African Republic, UN Warns Against Early Peacekeeper Exit",
+      "headline": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student",
       "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "[UN News] The UN warned on Tuesday against a premature withdrawal of its peacekeepers as the war in Sudan spills over into the Central African Republic (CAR).",
+      "summary": "\"This matter must be approached with care and compassion. The adolescent involved is still growing and developing,\" said&nbsp;Sarawak's Minister of Women, Children and Community Well-being Development Fatimah Abdullah.",
       "links": [
-        "https://allafrica.com/stories/202610210005.html"
+        "https://www.channelnewsasia.com/asia/teen-axe-attack-sarawak-teacher-6482341"
       ]
     },
     {
-      "headline": "Nigeria: Presidential Panel Submits Draft National Policing Bill to Justice Ministry for Review",
+      "headline": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
       "countries": [
-        "Nigeria"
+        "United States",
+        "Israel"
       ],
       "regions": [
-        "Africa"
+        "Americas"
       ],
       "outlets": 1,
-      "summary": "[Premium Times] The proposed National Policing Bill seeks to establish the constitutional and legislative framework for a dual policing structure, comprising a Federal Police Service and State Police Services.",
+      "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
       "links": [
-        "https://allafrica.com/stories/202610210085.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: Zimbabwe Faces Prolonged Fuel Cost Pressure As Oil Price Relief Unlikely Before 2028",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[263Chat] Zimbabwe's fuel-import-dependent economy could remain exposed to international oil market volatility into 2027 after the International Energy Agency (IEA) warned that global energy markets are unlikely to return to normal next year.",
-      "links": [
-        "https://allafrica.com/stories/202610210505.html"
+        "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
       ]
     },
     {
@@ -146,31 +158,19 @@
       ]
     },
     {
-      "headline": "North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back?",
-      "countries": [],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "North Korean state media has published photos of the dictator with his daughter after the unsubstantiated rumour spread.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmvg6qv1jdydo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "UK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks",
+      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
       "countries": [
-        "Saudi Arabia"
+        "Kenya"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nUK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks\n\n    \n    \n\n        \n    \n                The UK is set to deploy Royal Air Force Typhoon fighter jets to Saudi Arabia as a form of protection against Houthi attack.\n\nAccording to the Briti",
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/uk-deploy-fighter-jets-military-advisers-saudi-arabia-defence-houthi"
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-21 (extractive mode)\n\n* Sudan army drones hit mourners and fuel market killing more than 300 people, sources say (BBC News, 2 outlets)\n* Australian MP Helen Haines loses both legs after car attack as suspect appears in court (World | Deutsche Welle, 2 outlets)\n* Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion (BBC News, 2 outlets)\n* Kenya cult leader's children still being starved weeks before trial, son says (BBC News, 2 outlets)\n* Swimmer, 65, killed in shark attack off South Africa's east coast (BBC News, 2 outlets)\n* OCBC to become first non-Malaysian bank to allow Singapore saving accounts to hold ringgit from Oct 23 (Latest News, 1 outlets)\n* Sudan: As Sudan War Spills Into Central African Republic, UN Warns Against Early Peacekeeper Exit (AllAfrica News: Latest, 1 outlets)\n* Nigeria: Presidential Panel Submits Draft National Policing Bill to Justice Ministry for Review (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: Zimbabwe Faces Prolonged Fuel Cost Pressure As Oil Price Relief Unlikely Before 2028 (AllAfrica News: Latest, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* North Korea publishes photos of Kim Jong Un - why do rumours of his death keep coming back? (BBC News, 1 outlets)\n* UK to deploy fighter jets, military advisers to Saudi Arabia as defence from Houthi attacks (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-10-22 (extractive mode)\n\n* Two European women held captive for more than a year in Niger freed in Libya (BBC News, 2 outlets)\n* Zimbabwe: Mnangagwa, Angel Caught Up in Another Al Jazeera Investigation That Reveals Zimbabwean Govt Paid UK Terrorist Groups to Force Lifting of Sanctions (AllAfrica News: Latest, 1 outlets)\n* Africa: Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants (AllAfrica News: Latest, 1 outlets)\n* South Africa: Black Market Weight-Loss Drug Sellers Are Moving Fast. South Africa's Regulators Are Struggling To Keep Up (AllAfrica News: Latest, 1 outlets)\n* Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree. (World | Deutsche Welle, 1 outlets)\n* South Africa: Bronkhorstspruit Water Crisis Exposes a National Pattern of Municipal Failure and Impunity (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: 200,000 Zimbabweans Have So Far Fled South Africa's Anti-Migrant Protests - Cabinet Told (AllAfrica News: Latest, 1 outlets)\n* Singapore\u2019s Toh Wei Soong bags silver in 100m backstroke S7, his 4th medal at Asian Para Games (Latest News, 1 outlets)\n* Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student (Latest News, 1 outlets)\n* Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention (NPR Topics: World, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)"
 }
