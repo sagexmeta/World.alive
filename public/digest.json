@@ -1,36 +1,87 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-22T12:36:39.722154+00:00",
-  "digest_words": 274,
+  "generated_at": "2026-10-23T12:15:08.718813+00:00",
+  "digest_words": 236,
   "clusters": [
     {
-      "headline": "Two European women held captive for more than a year in Niger freed in Libya",
+      "headline": "Yemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance",
+      "countries": [
+        "Saudi Arabia",
+        "Iran"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nYemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance\n\n    \n    \n\n        \n    \n                Recent Houthi attacks on&nbsp;Saudi&nbsp;oil infrastructure and the&nbsp;Yemeni&nbsp;group\u2019s growing leverage over Red Sea shipping have played to&nbsp;Iran'",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus-balance",
+        "https://www.middleeasteye.net/news/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus"
+      ]
+    },
+    {
+      "headline": "Malawi opposition demands answers over president's prolonged stay abroad",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland.",
+      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Zimbabwe: Mnangagwa, Angel Caught Up in Another Al Jazeera Investigation That Reveals Zimbabwean Govt Paid UK Terrorist Groups to Force Lifting of Sanctions",
+      "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
       "countries": [],
       "regions": [
-        "Africa"
+        "Africa",
+        "Europe"
       ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] President Emmerson Mnangagwa's advisor Uebert Angel has been caught up in another Al Jazeera investigation that reveals as much as US$13,000 was paid for a fake rally on the sidelines of COP26, seeking to portray British people's support for a UK-Zimbabwe relationship.",
+      "outlets": 2,
+      "summary": "The UN human rights chief Volker T\u00fcrk says the multiple attacks may amount to war crimes.",
       "links": [
-        "https://allafrica.com/stories/202610220207.html"
+        "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Africa: Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants",
+      "headline": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
+      "countries": [
+        "Nigeria",
+        "Switzerland"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "Her husband is currently in isolation but has not developed any symptoms,  Swiss officials say.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Crowd of 50 beats foreigner to death in South Africa",
+      "countries": [
+        "South Africa"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
       "countries": [
         "Ethiopia"
       ],
@@ -38,23 +89,9 @@
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Africa CDC] The Africa Centres for Disease Control and Prevention (Africa CDC) and Ethiopian Airlines have partnered to offer a 20% discount on air tickets to participants attending the Fifth International Conference on Public Health in Africa (CPHIA 2026) who are funding their own participation.",
+      "summary": "[Addis Standard] Addis Abeba -- Drone strikes in Ethiopia's Amhara and Tigray regions killed schoolchildren and other civilians on Tuesday, 20 October, according to eyewitnesses and local residents who spoke to Addis Standard, adding to mounting civilian casualties amid renewed fighting between fede",
       "links": [
-        "https://allafrica.com/stories/202610220009.html"
-      ]
-    },
-    {
-      "headline": "South Africa: Black Market Weight-Loss Drug Sellers Are Moving Fast. South Africa's Regulators Are Struggling To Keep Up",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Bhekisisa] South African regulators have won an important court battle against a pharmacy making its own versions of popular weight-loss injections. But illegal and experimental drugs are still being sold openly, while new rules to crack down on the trade are months away. Why is the country struggl",
-      "links": [
-        "https://allafrica.com/stories/202610220121.html"
+        "https://allafrica.com/stories/202610220473.html"
       ]
     },
     {
@@ -75,72 +112,45 @@
       ]
     },
     {
-      "headline": "South Africa: Bronkhorstspruit Water Crisis Exposes a National Pattern of Municipal Failure and Impunity",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[Daily Maverick] The Bronkhorstspruit water crisis, which has sickened about 450 people, exposes deep-rooted failures in local government, poor oversight and a culture of non-accountability that puts public health at risk. Despite promises of disciplinary action, political patronage and weak enforce",
-      "links": [
-        "https://allafrica.com/stories/202610220062.html"
-      ]
-    },
-    {
-      "headline": "Zimbabwe: 200,000 Zimbabweans Have So Far Fled South Africa's Anti-Migrant Protests - Cabinet Told",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[New Zimbabwe] Just under 200,000 Zimbabweans have so far fled South Africa's anti-migrant protests, according to the government.",
-      "links": [
-        "https://allafrica.com/stories/202610220074.html"
-      ]
-    },
-    {
-      "headline": "Singapore\u2019s Toh Wei Soong bags silver in 100m backstroke S7, his 4th medal at Asian Para Games",
-      "countries": [
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "Toh now has a total of four medals at the Games this year, but no gold.",
-      "links": [
-        "https://www.channelnewsasia.com/sport/toh-wei-soong-silver-asian-para-games-singapore-6482391"
-      ]
-    },
-    {
-      "headline": "Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student",
+      "headline": "Africa: Africa's Natural Wealth Takes Centre Stage As Leaders Call for Shift From Accounting to Action",
       "countries": [],
       "regions": [
-        "Asia"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\"This matter must be approached with care and compassion. The adolescent involved is still growing and developing,\" said&nbsp;Sarawak's Minister of Women, Children and Community Well-being Development Fatimah Abdullah.",
+      "summary": "[African Development Bank (AfDB)] African policymakers, development partners and financial experts have called for greater use of natural capital accounting (NCA) to shape economic policy, attract investment and support sustainable development across the continent.",
       "links": [
-        "https://www.channelnewsasia.com/asia/teen-axe-attack-sarawak-teacher-6482341"
+        "https://allafrica.com/stories/202610210298.html"
       ]
     },
     {
-      "headline": "Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention",
+      "headline": "\u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus",
       "countries": [
-        "United States",
+        "Turkey",
         "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n\u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus\n\n    \n    \n\n        \n    \n                Pro-Israel&nbsp;US lobby group Aipac has visited Cyprus to promote what it called \u201csecurity partnerships in the Eastern Mediterranean\u201d between I",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-common-enemy-pro-israel-network-forms-parliamentary-groups-0"
+      ]
+    },
+    {
+      "headline": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
+      "countries": [
+        "Brazil",
+        "Argentina"
       ],
       "regions": [
         "Americas"
       ],
       "outlets": 1,
-      "summary": "Democratic congressional candidate Brad Lander along with dozens of American and Israeli rabbis and activists were helping Palestinian olive harvesters when they were detained by Israeli forces.",
+      "summary": "The Iguaz\u00fa Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Ni\u00f1o, has sent near-record volumes of water surging over the towering cliffs.",
       "links": [
-        "https://www.npr.org/2026/10/21/nx-s1-6010460/brad-lander-detained-west-bank-israel-palestinians"
+        "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
       ]
     },
     {
@@ -158,19 +168,17 @@
       ]
     },
     {
-      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
-      "countries": [
-        "Kenya"
-      ],
+      "headline": "Serial voyeur jailed again for taking upskirt videos, warned he could face caning next time",
+      "countries": [],
       "regions": [
-        "Africa"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "summary": "Gary Huang Kunjie had been sentenced to jail repeatedly for similar offences, with convictions in each year from 2018 to 2022, as well as in 2025.&nbsp;",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
+        "https://www.channelnewsasia.com/singapore/serial-voyeur-upskirt-videos-jailed-6486121"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-22 (extractive mode)\n\n* Two European women held captive for more than a year in Niger freed in Libya (BBC News, 2 outlets)\n* Zimbabwe: Mnangagwa, Angel Caught Up in Another Al Jazeera Investigation That Reveals Zimbabwean Govt Paid UK Terrorist Groups to Force Lifting of Sanctions (AllAfrica News: Latest, 1 outlets)\n* Africa: Africa CDC and Ethiopian Airlines Partner to Offer 20% Airfare Discount to Self-Sponsored CPHIA 2026 Participants (AllAfrica News: Latest, 1 outlets)\n* South Africa: Black Market Weight-Loss Drug Sellers Are Moving Fast. South Africa's Regulators Are Struggling To Keep Up (AllAfrica News: Latest, 1 outlets)\n* Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree. (World | Deutsche Welle, 1 outlets)\n* South Africa: Bronkhorstspruit Water Crisis Exposes a National Pattern of Municipal Failure and Impunity (AllAfrica News: Latest, 1 outlets)\n* Zimbabwe: 200,000 Zimbabweans Have So Far Fled South Africa's Anti-Migrant Protests - Cabinet Told (AllAfrica News: Latest, 1 outlets)\n* Singapore\u2019s Toh Wei Soong bags silver in 100m backstroke S7, his 4th medal at Asian Para Games (Latest News, 1 outlets)\n* Teen arrested over axe attack on Sarawak teacher; minister urges public not to shame student (Latest News, 1 outlets)\n* Israel frees dozens of Americans, including U.S. Congress nominee, after West Bank detention (NPR Topics: World, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-23 (extractive mode)\n\n* Yemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance (Section Feed, 2 outlets)\n* Malawi opposition demands answers over president's prolonged stay abroad (BBC News, 2 outlets)\n* Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds (BBC News, 2 outlets)\n* Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat (BBC News, 2 outlets)\n* Crowd of 50 beats foreigner to death in South Africa (BBC News, 2 outlets)\n* Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating (AllAfrica News: Latest, 1 outlets)\n* Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree. (World | Deutsche Welle, 1 outlets)\n* Africa: Africa's Natural Wealth Takes Centre Stage As Leaders Call for Shift From Accounting to Action (AllAfrica News: Latest, 1 outlets)\n* \u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus (Section Feed, 1 outlets)\n* Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates (NPR Topics: World, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Serial voyeur jailed again for taking upskirt videos, warned he could face caning next time (Latest News, 1 outlets)"
 }
