@@ -1,104 +1,55 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-23T12:15:08.718813+00:00",
-  "digest_words": 236,
+  "generated_at": "2026-10-24T11:41:51.934510+00:00",
+  "digest_words": 246,
   "clusters": [
     {
-      "headline": "Yemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance",
+      "headline": "Seven missing after multi-storey building collapses in Kenya's capital",
       "countries": [
-        "Saudi Arabia",
-        "Iran"
+        "Kenya"
       ],
       "regions": [
-        "Middle East"
+        "Africa",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "\n\n  \n      \n      \nYemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance\n\n    \n    \n\n        \n    \n                Recent Houthi attacks on&nbsp;Saudi&nbsp;oil infrastructure and the&nbsp;Yemeni&nbsp;group\u2019s growing leverage over Red Sea shipping have played to&nbsp;Iran'",
+      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus-balance",
-        "https://www.middleeasteye.net/news/yemen-bab-al-mandab-and-saudi-arabia-tehrans-strategic-calculus"
+        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Malawi opposition demands answers over president's prolonged stay abroad",
+      "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa",
+        "Europe"
+      ],
+      "outlets": 2,
+      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali",
       "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "This is President Peter Mutharika's fifth visit to South Africa this year.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-      "countries": [],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The UN human rights chief Volker T\u00fcrk says the multiple attacks may amount to war crimes.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
-      "countries": [
-        "Nigeria",
-        "Switzerland"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Her husband is currently in isolation but has not developed any symptoms,  Swiss officials say.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Crowd of 50 beats foreigner to death in South Africa",
-      "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "The attack on the unidentified victim follows a wave of anti-migrants protests in South Africa this year.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/ck5yn9z3vnego?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating",
-      "countries": [
-        "Ethiopia"
-      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Addis Standard] Addis Abeba -- Drone strikes in Ethiopia's Amhara and Tigray regions killed schoolchildren and other civilians on Tuesday, 20 October, according to eyewitnesses and local residents who spoke to Addis Standard, adding to mounting civilian casualties amid renewed fighting between fede",
+      "summary": "[African Development Bank (AfDB)] WHAT: African Development Bank Group participation at the 11th Global Environment Facility (GEF) Biennial International Waters Conference (IWC11)   WHO: African Development Bank Group   WHEN: 17-22 October 2026   WHERE: Anvaya Beach Resort, Bali, Indonesia",
       "links": [
-        "https://allafrica.com/stories/202610220473.html"
+        "https://allafrica.com/stories/202610200564.html"
       ]
     },
     {
-      "headline": "Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree.",
+      "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
       "countries": [
-        "United States",
-        "China",
         "Russia",
         "Ukraine"
       ],
@@ -106,51 +57,91 @@
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Moscow is pushing for a summit with Donald Trump and Xi Jinping to discuss ending the war in Ukraine, without Kyiv or the EU. What does Russia hope to gain, and why might China be willing to take part?",
+      "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
       "links": [
-        "https://www.dw.com/en/trump-putin-and-xi-at-one-table-without-ukraine-what-moscow-wants-from-the-proposal-and-why-beijing-might-agree/a-79726190?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Africa: Africa's Natural Wealth Takes Centre Stage As Leaders Call for Shift From Accounting to Action",
+      "headline": "Singapore Rail Academy to partner 5 educational institutions to help rail workers gain formal qualifications",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The revamped academy will also bring together existing training by LTA, SMRT and SBS Transit under a consolidated curriculum.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/singapore-rail-academy-sbs-smrt-students-career-qualifications-6488586"
+      ]
+    },
+    {
+      "headline": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
+      "countries": [
+        "Nigeria",
+        "Kenya"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+      "links": [
+        "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
+      "countries": [
+        "Indonesia",
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "The diversion to meet domestic needs involves 31 million standard cubic feet of natural gas a day from Natuna and Sumatra, Indonesia\u2019s upstream oil and gas regulator told CNA.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/indonesia-gas-singapore-supply-diversion-6488391"
+      ]
+    },
+    {
+      "headline": "Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves",
       "countries": [],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] African policymakers, development partners and financial experts have called for greater use of natural capital accounting (NCA) to shape economic policy, attract investment and support sustainable development across the continent.",
+      "summary": "[allAfrica] Geneva -- Hunger in the Democratic Republic of Congo (DR Congo) is undermining efforts to combat Ebola as the deadly disease has expanded across borders and also to an eighth province of the huge central African country, the UN said on Friday.",
       "links": [
-        "https://allafrica.com/stories/202610210298.html"
+        "https://allafrica.com/stories/202610230400.html"
       ]
     },
     {
-      "headline": "\u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus",
-      "countries": [
-        "Turkey",
-        "Israel"
-      ],
+      "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
+      "countries": [],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \n\u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus\n\n    \n    \n\n        \n    \n                Pro-Israel&nbsp;US lobby group Aipac has visited Cyprus to promote what it called \u201csecurity partnerships in the Eastern Mediterranean\u201d between I",
+      "summary": "\n\n  \n      \n      \nSaudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif\n\n    \n    \n\n        \n    \n                A Saudi-led \u200bcoalition fighting Yemen's \u200cHouthis said it destroyed two ballistic missiles fired \u200bby the Iran-aligned \u200bgroup towards Taif and Yanbu",
       "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/turkey-common-enemy-pro-israel-network-forms-parliamentary-groups-0"
-      ]
-    },
-    {
-      "headline": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "countries": [
-        "Brazil",
-        "Argentina"
-      ],
-      "regions": [
-        "Americas"
-      ],
-      "outlets": 1,
-      "summary": "The Iguaz\u00fa Falls span more than a mile across both countries. A rain-soaked October, which scientists link to the Super El Ni\u00f1o, has sent near-record volumes of water surging over the towering cliffs.",
-      "links": [
-        "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
       ]
     },
     {
@@ -168,17 +159,21 @@
       ]
     },
     {
-      "headline": "Serial voyeur jailed again for taking upskirt videos, warned he could face caning next time",
-      "countries": [],
+      "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
+      "countries": [
+        "Saudi Arabia",
+        "Israel",
+        "Pakistan"
+      ],
       "regions": [
-        "Asia"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Gary Huang Kunjie had been sentenced to jail repeatedly for similar offences, with convictions in each year from 2018 to 2022, as well as in 2025.&nbsp;",
+      "summary": "\n\n  \n      \n      \nPakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 10/24/2026 - 10:25\n\n        \n      \n    \n      \n    \n                Saudi authorities have lifted recent secu",
       "links": [
-        "https://www.channelnewsasia.com/singapore/serial-voyeur-upskirt-videos-jailed-6486121"
+        "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-23 (extractive mode)\n\n* Yemen, Bab al-Mandab and Saudi Arabia: Tehran\u2019s strategic calculus in the balance (Section Feed, 2 outlets)\n* Malawi opposition demands answers over president's prolonged stay abroad (BBC News, 2 outlets)\n* Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds (BBC News, 2 outlets)\n* Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat (BBC News, 2 outlets)\n* Crowd of 50 beats foreigner to death in South Africa (BBC News, 2 outlets)\n* Ethiopia: Drone Strikes Kill Schoolchildren in Amhara, Civilians in Tigray Regions As Conflicts Show No Sign of Abating (AllAfrica News: Latest, 1 outlets)\n* Trump, Putin and Xi at one table, without Ukraine. What Moscow wants from the proposal and why Beijing might agree. (World | Deutsche Welle, 1 outlets)\n* Africa: Africa's Natural Wealth Takes Centre Stage As Leaders Call for Shift From Accounting to Action (AllAfrica News: Latest, 1 outlets)\n* \u2018Turkey is a common enemy\u2019: Pro-Israel network forms parliamentary groups in Greece and Cyprus (Section Feed, 1 outlets)\n* Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates (NPR Topics: World, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Serial voyeur jailed again for taking upskirt videos, warned he could face caning next time (Latest News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-24 (extractive mode)\n\n* Seven missing after multi-storey building collapses in Kenya's capital (BBC News, 2 outlets)\n* Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News, 2 outlets)\n* Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali (AllAfrica News: Latest, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* Singapore Rail Academy to partner 5 educational institutions to help rail workers gain formal qualifications (Latest News, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead (BBC News, 1 outlets)\n* Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies (Latest News, 1 outlets)\n* Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves (AllAfrica News: Latest, 1 outlets)\n* Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif (Section Feed, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills (Section Feed, 1 outlets)"
 }
