@@ -1,22 +1,38 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-24T11:41:51.934510+00:00",
-  "digest_words": 246,
+  "generated_at": "2026-10-25T12:10:57.718176+00:00",
+  "digest_words": 250,
   "clusters": [
     {
-      "headline": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "headline": "Australian Grand Prix called off as rain spoils Phillip Island send-off",
       "countries": [
-        "Kenya"
+        "Australia"
+      ],
+      "regions": [
+        "Asia",
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "",
+      "links": [
+        "https://www.channelnewsasia.com/sport/australian-grand-prix-called-rain-spoils-phillip-island-send-6490176",
+        "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss"
+      ]
+    },
+    {
+      "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
+      "countries": [
+        "Nigeria"
       ],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled.",
+      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
@@ -36,15 +52,17 @@
       ]
     },
     {
-      "headline": "Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali",
-      "countries": [],
+      "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "countries": [
+        "Turkey"
+      ],
       "regions": [
-        "Africa"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] WHAT: African Development Bank Group participation at the 11th Global Environment Facility (GEF) Biennial International Waters Conference (IWC11)   WHO: African Development Bank Group   WHEN: 17-22 October 2026   WHERE: Anvaya Beach Resort, Bali, Indonesia",
+      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
       "links": [
-        "https://allafrica.com/stories/202610200564.html"
+        "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -63,17 +81,33 @@
       ]
     },
     {
-      "headline": "Singapore Rail Academy to partner 5 educational institutions to help rail workers gain formal qualifications",
+      "headline": "\u2018Keep calm and carry on\u2019: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
       "countries": [
+        "Indonesia",
         "Singapore"
       ],
       "regions": [
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The revamped academy will also bring together existing training by LTA, SMRT and SBS Transit under a consolidated curriculum.",
+      "summary": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/singapore-rail-academy-sbs-smrt-students-career-qualifications-6488586"
+        "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121"
+      ]
+    },
+    {
+      "headline": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
+      "countries": [
+        "Russia",
+        "Japan"
+      ],
+      "regions": [
+        "Europe"
+      ],
+      "outlets": 1,
+      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
+      "links": [
+        "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -92,21 +126,7 @@
       ]
     },
     {
-      "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies",
+      "headline": "Singapore expects all parties to honour commercial gas contracts, says PM Wong after Indonesia cut exports",
       "countries": [
         "Indonesia",
         "Singapore"
@@ -115,65 +135,51 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "The diversion to meet domestic needs involves 31 million standard cubic feet of natural gas a day from Natuna and Sumatra, Indonesia\u2019s upstream oil and gas regulator told CNA.",
+      "summary": "Singapore\u2019s gas importer will take the necessary steps to protect its rights and interests under such contracts, says Prime Minister Lawrence Wong.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/indonesia-gas-singapore-supply-diversion-6488391"
+        "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-singapore-gas-contracts-pm-wong-pap-convention-6489956"
       ]
     },
     {
-      "headline": "Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves",
-      "countries": [],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "[allAfrica] Geneva -- Hunger in the Democratic Republic of Congo (DR Congo) is undermining efforts to combat Ebola as the deadly disease has expanded across borders and also to an eighth province of the huge central African country, the UN said on Friday.",
-      "links": [
-        "https://allafrica.com/stories/202610230400.html"
-      ]
-    },
-    {
-      "headline": "Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif",
-      "countries": [],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \nSaudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif\n\n    \n    \n\n        \n    \n                A Saudi-led \u200bcoalition fighting Yemen's \u200cHouthis said it destroyed two ballistic missiles fired \u200bby the Iran-aligned \u200bgroup towards Taif and Yanbu",
-      "links": [
-        "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-says-it-destroyed-houthi-ballistic-missiles-fired"
-      ]
-    },
-    {
-      "headline": "The South African men trying to end violence against women: 'Every man needs to play a part'",
+      "headline": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
       "countries": [
-        "South Africa"
-      ],
-      "regions": [
-        "Africa"
-      ],
-      "outlets": 1,
-      "summary": "The discovery of 12 women's bodies near Johannesburg has again highlighted South Africa's problem with violence against women.",
-      "links": [
-        "https://www.bbc.co.uk/news/articles/cm3eqegwpzl4o?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills",
-      "countries": [
-        "Saudi Arabia",
-        "Israel",
-        "Pakistan"
+        "Israel"
       ],
       "regions": [
         "Middle East"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nPakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSat, 10/24/2026 - 10:25\n\n        \n      \n    \n      \n    \n                Saudi authorities have lifted recent secu",
+      "summary": "\n\n  \n      \n      \nIsraeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 10/25/2026 - 09:55\n\n        \n      \n    \n      \n    \n                Amana settler movement proposes 122 ",
       "links": [
-        "https://www.middleeasteye.net/news/pakistan-ratifies-mecca-pact-saudi-arabia-faces-attacks-and-israel-holds-military-drills"
+        "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood"
+      ]
+    },
+    {
+      "headline": "Governing means confronting politically difficult issues, not just balancing interests: PM Wong",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Speaking at a People\u2019s Action Party conference, PM Wong also warned against populism and \u201csimplistic solutions\u201d to difficult problems.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/governing-politically-difficult-issues-pm-wong-pap-convention-6490016"
+      ]
+    },
+    {
+      "headline": "'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 1,
+      "summary": "\n\n  \n      \n      \n'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 10/25/2026 - 08:38\n\n        \n      \n    \n      \n    \n                Israel\u2019s central bank says digital cur",
+      "links": [
+        "https://www.middleeasteye.net/news/diplomatic-financial-isolation-netanyahu-crypto-plan-bypass-sanctions-draws-rebuke"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-24 (extractive mode)\n\n* Seven missing after multi-storey building collapses in Kenya's capital (BBC News, 2 outlets)\n* Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News, 2 outlets)\n* Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali (AllAfrica News: Latest, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* Singapore Rail Academy to partner 5 educational institutions to help rail workers gain formal qualifications (Latest News, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead (BBC News, 1 outlets)\n* Indonesia reduces gas exports to Singapore in order to 'safeguard reliability' of domestic supplies (Latest News, 1 outlets)\n* Congo-Kinshasa: As Ebola Spreads to 8th DR Congo Province, Families Battle to Feed Themselves (AllAfrica News: Latest, 1 outlets)\n* Saudi-led coalition says it destroyed Houthi ballistic missiles fired towards Yanbu and Taif (Section Feed, 1 outlets)\n* The South African men trying to end violence against women: 'Every man needs to play a part' (BBC News, 1 outlets)\n* Pakistan ratifies Mecca pact as Saudi Arabia faces attacks and Israel holds military drills (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-10-25 (extractive mode)\n\n* Australian Grand Prix called off as rain spoils Phillip Island send-off (Latest News, 2 outlets)\n* Gunmen kill at least 10 villagers and loot shops in north-east Nigeria (BBC News, 2 outlets)\n* Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News, 2 outlets)\n* Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU (World | Deutsche Welle, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* \u2018Keep calm and carry on\u2019: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng (Latest News, 1 outlets)\n* Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries. (World | Deutsche Welle, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Singapore expects all parties to honour commercial gas contracts, says PM Wong after Indonesia cut exports (Latest News, 1 outlets)\n* Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood (Section Feed, 1 outlets)\n* Governing means confronting politically difficult issues, not just balancing interests: PM Wong (Latest News, 1 outlets)\n* 'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke (Section Feed, 1 outlets)"
 }
