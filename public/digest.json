@@ -1,54 +1,48 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-25T12:10:57.718176+00:00",
-  "digest_words": 250,
+  "generated_at": "2026-10-26T13:41:42.491839+00:00",
+  "digest_words": 264,
   "clusters": [
     {
-      "headline": "Australian Grand Prix called off as rain spoils Phillip Island send-off",
-      "countries": [
-        "Australia"
-      ],
+      "headline": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
+      "countries": [],
       "regions": [
-        "Asia",
-        "Middle East"
+        "Americas",
+        "Europe"
       ],
       "outlets": 2,
-      "summary": "",
+      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
       "links": [
-        "https://www.channelnewsasia.com/sport/australian-grand-prix-called-rain-spoils-phillip-island-send-6490176",
-        "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss"
+        "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
+        "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Gunmen kill at least 10 villagers and loot shops in north-east Nigeria",
-      "countries": [
-        "Nigeria"
-      ],
+      "headline": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Police are searching for other casualties, with officials warning the actual death toll could rise further.",
+      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/cq1kdlm1ze7do?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
       ]
     },
     {
-      "headline": "Woman, 65, becomes second patient to die of Ebola in Kenya",
+      "headline": "In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war",
       "countries": [
-        "Kenya"
+        "Ukraine"
       ],
       "regions": [
-        "Africa",
         "Europe"
       ],
-      "outlets": 2,
-      "summary": "She was a close family member of the first victim, a man who had travelled from the Democratic Republic of Congo.",
+      "outlets": 1,
+      "summary": "Low voter turnout has triggered a run-off for the Bulgarian presidency. The vote was colored by strong divisions over Russia's war in Ukraine, and Sofia's relations with the Kremlin.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/c6x2355448eyo?at_medium=RSS&at_campaign=rss"
+        "https://www.dw.com/en/in-bulgaria-record-low-voter-turnout-triggers-a-november-1-presidential-run-off-in-a-poll-colored-by-divisions-over-ukraine-war/a-79753496?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -63,6 +57,18 @@
       "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
       "links": [
         "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf"
+      ]
+    },
+    {
+      "headline": "Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali",
+      "countries": [],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "[African Development Bank (AfDB)] WHAT: African Development Bank Group participation at the 11th Global Environment Facility (GEF) Biennial International Waters Conference (IWC11)   WHO: African Development Bank Group   WHEN: 17-22 October 2026   WHERE: Anvaya Beach Resort, Bali, Indonesia",
+      "links": [
+        "https://allafrica.com/stories/202610200564.html"
       ]
     },
     {
@@ -81,18 +87,18 @@
       ]
     },
     {
-      "headline": "\u2018Keep calm and carry on\u2019: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng",
+      "headline": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
       "countries": [
-        "Indonesia",
-        "Singapore"
+        "Nigeria",
+        "Kenya"
       ],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "Global gas prices are a bigger factor in costs, says Minister for Energy, Trade and Industry (Energy and Industry) Tan See Leng.",
+      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/electricity-prices-indonesia-gas-supply-cut-tan-see-leng-6490121"
+        "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
@@ -111,22 +117,19 @@
       ]
     },
     {
-      "headline": "Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny",
-      "countries": [
-        "Nigeria",
-        "Kenya"
-      ],
+      "headline": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+      "countries": [],
       "regions": [
         "Europe"
       ],
       "outlets": 1,
-      "summary": "Health officials are investigating whether Ebola patients in Kenya and Nigeria crossed paths at Uganda's main airport as conflicting accounts cloud the source of one infection.",
+      "summary": "Nobel Peach Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned from nearly a year in exile. She was greeted by thousands of cheering supporters in Caracas.",
       "links": [
-        "https://www.dw.com/en/uganda-says-it-has-no-active-ebola-cases-but-infections-in-kenya-and-nigeria-are-prompting-fresh-scrutiny/a-79741580?maca=en-rss-en-world-4025-rdf"
+        "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-world-4025-rdf"
       ]
     },
     {
-      "headline": "Singapore expects all parties to honour commercial gas contracts, says PM Wong after Indonesia cut exports",
+      "headline": "Indonesia says gas export cuts to Singapore within contractual limits, pledges to honour obligations",
       "countries": [
         "Indonesia",
         "Singapore"
@@ -135,51 +138,37 @@
         "Asia"
       ],
       "outlets": 1,
-      "summary": "Singapore\u2019s gas importer will take the necessary steps to protect its rights and interests under such contracts, says Prime Minister Lawrence Wong.",
+      "summary": "The cuts fall within the minimum contractual limits of around 91 to 92 per cent of exports, says Coordinating Minister for Downstreaming and Energy Transition Bahlil Lahadalia.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/indonesia-gas-exports-singapore-gas-contracts-pm-wong-pap-convention-6489956"
+        "https://www.channelnewsasia.com/asia/indonesia-gas-cut-singapore-energy-minister-bahlil-lahadalia-6492401"
       ]
     },
     {
-      "headline": "Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood",
+      "headline": "Kenya: Police Rescue 59 Ethiopians, Including Four-Year-Old Child, in Marsabit Smuggling Operation",
       "countries": [
-        "Israel"
+        "Kenya"
       ],
       "regions": [
-        "Middle East"
+        "Africa"
       ],
       "outlets": 1,
-      "summary": "\n\n  \n      \n      \nIsraeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 10/25/2026 - 09:55\n\n        \n      \n    \n      \n    \n                Amana settler movement proposes 122 ",
+      "summary": "[Capital FM] Nairobi -- Police have rescued 59 Ethiopian nationals, including a four-year-old child, in a multi-agency operation targeting suspected human smuggling in Marsabit County.",
       "links": [
-        "https://www.middleeasteye.net/news/israeli-settlers-submit-proposals-new-jewish-settlement-sheikh-jarrah-neighbourhood"
+        "https://allafrica.com/stories/202610260085.html"
       ]
     },
     {
-      "headline": "Governing means confronting politically difficult issues, not just balancing interests: PM Wong",
+      "headline": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
       "countries": [],
       "regions": [
-        "Asia"
+        "Europe"
       ],
       "outlets": 1,
-      "summary": "Speaking at a People\u2019s Action Party conference, PM Wong also warned against populism and \u201csimplistic solutions\u201d to difficult problems.",
+      "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
       "links": [
-        "https://www.channelnewsasia.com/singapore/governing-politically-difficult-issues-pm-wong-pap-convention-6490016"
-      ]
-    },
-    {
-      "headline": "'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke",
-      "countries": [
-        "Israel"
-      ],
-      "regions": [
-        "Middle East"
-      ],
-      "outlets": 1,
-      "summary": "\n\n  \n      \n      \n'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke\n\n    \n    \n\n          \n      \n      \n        Submitted by \nMEE staff\n on \nSun, 10/25/2026 - 08:38\n\n        \n      \n    \n      \n    \n                Israel\u2019s central bank says digital cur",
-      "links": [
-        "https://www.middleeasteye.net/news/diplomatic-financial-isolation-netanyahu-crypto-plan-bypass-sanctions-draws-rebuke"
+        "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
       ]
     }
   ],
-  "narrative": "State of the World - 2026-10-25 (extractive mode)\n\n* Australian Grand Prix called off as rain spoils Phillip Island send-off (Latest News, 2 outlets)\n* Gunmen kill at least 10 villagers and loot shops in north-east Nigeria (BBC News, 2 outlets)\n* Woman, 65, becomes second patient to die of Ebola in Kenya (BBC News, 2 outlets)\n* Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU (World | Deutsche Welle, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* \u2018Keep calm and carry on\u2019: Indonesia gas cut unlikely to hit Singapore electricity prices, says Tan See Leng (Latest News, 1 outlets)\n* Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries. (World | Deutsche Welle, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Singapore expects all parties to honour commercial gas contracts, says PM Wong after Indonesia cut exports (Latest News, 1 outlets)\n* Israeli settler group submits proposals for new Jewish settlement in Sheikh Jarrah neighbourhood (Section Feed, 1 outlets)\n* Governing means confronting politically difficult issues, not just balancing interests: PM Wong (Latest News, 1 outlets)\n* 'Diplomatic and financial isolation': Netanyahu\u2019s crypto plan to bypass sanctions draws rebuke (Section Feed, 1 outlets)"
+  "narrative": "State of the World - 2026-10-26 (extractive mode)\n\n* Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile (NPR Topics: World, 2 outlets)\n* Nurse killed in attack while responding to Ebola alert in DR Congo (BBC News, 2 outlets)\n* In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war (World | Deutsche Welle, 1 outlets)\n* Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU (World | Deutsche Welle, 1 outlets)\n* Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali (AllAfrica News: Latest, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries. (World | Deutsche Welle, 1 outlets)\n* Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas (World | Deutsche Welle, 1 outlets)\n* Indonesia says gas export cuts to Singapore within contractual limits, pledges to honour obligations (Latest News, 1 outlets)\n* Kenya: Police Rescue 59 Ethiopians, Including Four-Year-Old Child, in Marsabit Smuggling Operation (AllAfrica News: Latest, 1 outlets)\n* Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement (BBC News, 1 outlets)"
 }
