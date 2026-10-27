@@ -1,34 +1,35 @@
 {
   "schema": "world-digest/news-exchange@1",
-  "generated_at": "2026-10-26T13:41:42.491839+00:00",
-  "digest_words": 264,
+  "generated_at": "2026-10-27T12:50:06.733892+00:00",
+  "digest_words": 255,
   "clusters": [
     {
-      "headline": "Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile",
-      "countries": [],
-      "regions": [
-        "Americas",
-        "Europe"
-      ],
-      "outlets": 2,
-      "summary": "Machado announced her arrival on social media, writing \"I am here. With you.\"",
-      "links": [
-        "https://www.npr.org/2026/10/25/nx-s1-6016222/venezuela-maria-corina-machado-leader-returns-exile",
-        "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss"
-      ]
-    },
-    {
-      "headline": "Nurse killed in attack while responding to Ebola alert in DR Congo",
+      "headline": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
       "countries": [],
       "regions": [
         "Africa",
         "Europe"
       ],
       "outlets": 2,
-      "summary": "Local youths reportedly accused the health workers of contaminating water sources and spreading Ebola.",
+      "summary": "The cycle of revenge attacks continue as the country heads towards its first  election since independence.",
       "links": [
-        "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
-        "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss"
+        "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+        "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss"
+      ]
+    },
+    {
+      "headline": "Palestinians are voting in Israel to ensure their very survival",
+      "countries": [
+        "Israel"
+      ],
+      "regions": [
+        "Middle East"
+      ],
+      "outlets": 2,
+      "summary": "\n\n  \n      \n      \nPalestinians are voting in Israel to ensure their very survival\n\n    \n    \n\n        \n    \n                Ibrahim Said has boycotted Israeli elections since voting in 1980.\n\nParties came and went, telling him they would defend his interests if elected, even promising to help retur",
+      "links": [
+        "https://www.middleeasteye.net/live-blog/live-blog-update/palestinians-are-voting-israel-ensure-their-very-survival",
+        "https://www.middleeasteye.net/news/palestinians-are-voting-israel-ensure-their-very-survival"
       ]
     },
     {
@@ -46,44 +47,32 @@
       ]
     },
     {
-      "headline": "Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU",
+      "headline": "Singapore, Indonesia setting up joint task force to probe firms linked to forest fires; hotlines to manage differences",
       "countries": [
-        "Turkey"
+        "Indonesia",
+        "Singapore"
       ],
       "regions": [
-        "Europe"
+        "Asia"
       ],
       "outlets": 1,
-      "summary": "Turkey and Libya plan to redraw maritime boundaries in the Mediterranean as part of a new economic corridor. This has sparked strong protests from Greece, and has also drawn the European Union into the conflict.",
+      "summary": "The task force, announced by the two countries' foreign ministers on Tuesday (Oct 27), will coordinate action and share information on companies linked to forest and land fires.\n&nbsp;",
       "links": [
-        "https://www.dw.com/en/turkey-s-new-deal-on-mediterranean-maritime-boundaries-with-libya-is-exacerbating-issues-with-greece-and-the-eu/a-79745971?maca=en-rss-en-world-4025-rdf"
+        "https://www.channelnewsasia.com/singapore/singapore-indonesia-haze-taskforce-hotline-6495736"
       ]
     },
     {
-      "headline": "Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali",
-      "countries": [],
+      "headline": "Ethiopia: Drought, Food Shortages and Child Malnutrition Deepen Humanitarian Needs in Afar, Amhara and Tigray",
+      "countries": [
+        "Ethiopia"
+      ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[African Development Bank (AfDB)] WHAT: African Development Bank Group participation at the 11th Global Environment Facility (GEF) Biennial International Waters Conference (IWC11)   WHO: African Development Bank Group   WHEN: 17-22 October 2026   WHERE: Anvaya Beach Resort, Bali, Indonesia",
+      "summary": "[Addis Standard] Addis Abeba -- Drought, rising food prices, shortages of essential medicines and disruptions to health services are compounding humanitarian needs across northern Ethiopia's Afar, Amhara and Tigray regions, with displaced children particularly vulnerable to acute malnutrition, accor",
       "links": [
-        "https://allafrica.com/stories/202610200564.html"
-      ]
-    },
-    {
-      "headline": "Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like",
-      "countries": [
-        "Russia",
-        "Ukraine"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Russia's attacks on the Ukrainian capital are hitting harder and more frequently, making 2026 one of the long war's bloodiest years for Kyiv. DW asked people on the ground what life is like.",
-      "links": [
-        "https://www.dw.com/en/russia-s-attacks-on-ukraine-s-capital-kyiv-are-intensifying-dw-asked-people-on-the-ground-what-life-is-like/a-79741090?maca=en-rss-en-world-4025-rdf"
+        "https://allafrica.com/stories/202610270284.html"
       ]
     },
     {
@@ -102,59 +91,41 @@
       ]
     },
     {
-      "headline": "Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries.",
-      "countries": [
-        "Russia",
-        "Japan"
-      ],
-      "regions": [
-        "Europe"
-      ],
-      "outlets": 1,
-      "summary": "Japan is demanding access to a journalist who was arrested by Russian security services. The Kremlin claims that Japan is using journalists as spies.",
-      "links": [
-        "https://www.dw.com/en/why-russia-s-arrest-of-japanese-journalist-is-the-latest-sign-of-deteriorating-ties-between-the-countries/a-79742995?maca=en-rss-en-world-4025-rdf"
-      ]
-    },
-    {
-      "headline": "Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas",
+      "headline": "Election committee says no evidence of ballot tampering despite complaints from at least six parties",
       "countries": [],
       "regions": [
-        "Europe"
+        "Middle East"
       ],
       "outlets": 1,
-      "summary": "Nobel Peach Prize winner and popular Venezuelan political opposition figure Maria Corina Machado has returned from nearly a year in exile. She was greeted by thousands of cheering supporters in Caracas.",
+      "summary": "\n\n  \n      \n      \nElection committee says no evidence of ballot tampering despite complaints from at least six parties\n\n    \n    \n\n        \n    \n                Israel's Central Elections Committee (CEC) has said there is no evidence of systemic tampering with ballots in the election, despite compl",
       "links": [
-        "https://www.dw.com/en/venezuela-opposition-leader-machado-returns-from-exile-received-by-thousands-of-supporters-in-caracas/a-79759187?maca=en-rss-en-world-4025-rdf"
+        "https://www.middleeasteye.net/live-blog/live-blog-update/election-committee-says-no-evidence-ballot-tampering-despite-complaints"
       ]
     },
     {
-      "headline": "Indonesia says gas export cuts to Singapore within contractual limits, pledges to honour obligations",
+      "headline": "Ethiopia: At Least 48 Civilians Killed in Weekend Attacks in Ethiopia's Oromia Region, Once Again",
       "countries": [
-        "Indonesia",
-        "Singapore"
-      ],
-      "regions": [
-        "Asia"
-      ],
-      "outlets": 1,
-      "summary": "The cuts fall within the minimum contractual limits of around 91 to 92 per cent of exports, says Coordinating Minister for Downstreaming and Energy Transition Bahlil Lahadalia.",
-      "links": [
-        "https://www.channelnewsasia.com/asia/indonesia-gas-cut-singapore-energy-minister-bahlil-lahadalia-6492401"
-      ]
-    },
-    {
-      "headline": "Kenya: Police Rescue 59 Ethiopians, Including Four-Year-Old Child, in Marsabit Smuggling Operation",
-      "countries": [
-        "Kenya"
+        "Ethiopia"
       ],
       "regions": [
         "Africa"
       ],
       "outlets": 1,
-      "summary": "[Capital FM] Nairobi -- Police have rescued 59 Ethiopian nationals, including a four-year-old child, in a multi-agency operation targeting suspected human smuggling in Marsabit County.",
+      "summary": "[Addis Standard] Addis Abeba -- At least 48 people have been killed and more than 31 others wounded, some severely, in attacks by armed men in Chole and Birbo kebeles of Shirka Woreda, Arsi Zone, in southeastern Oromia, residents who attended the victims' mass funeral told Addis Standard, describing",
       "links": [
-        "https://allafrica.com/stories/202610260085.html"
+        "https://allafrica.com/stories/202610260665.html"
+      ]
+    },
+    {
+      "headline": "ASEAN could take years to be ready for next major energy disruption: Philippine energy secretary",
+      "countries": [],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "ASEAN countries must strengthen energy supplies and infrastructure to weather future disruptions, Philippine Energy Secretary Sharon Garin told CNA\u2019s Roland Lim.",
+      "links": [
+        "https://www.channelnewsasia.com/asia/asean-could-take-years-ready-next-major-energy-disruption-philippine-energy-secretary-sharon-garin-6496131"
       ]
     },
     {
@@ -168,7 +139,35 @@
       "links": [
         "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
       ]
+    },
+    {
+      "headline": "Malaysian who accessed 17 Singapore bank accounts for syndicate in S$4 million case gets jail",
+      "countries": [
+        "Singapore"
+      ],
+      "regions": [
+        "Asia"
+      ],
+      "outlets": 1,
+      "summary": "Tan Kian Hoa reported to work at a location in Iskandar Puteri, Johor Bahru, where pre-loaded phones with details on how to log into Singapore bank accounts were ready for him.",
+      "links": [
+        "https://www.channelnewsasia.com/singapore/malaysian-bank-accounts-syndicate-4-million-jail-6496041"
+      ]
+    },
+    {
+      "headline": "Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds",
+      "countries": [
+        "Kenya"
+      ],
+      "regions": [
+        "Africa"
+      ],
+      "outlets": 1,
+      "summary": "After analysing 1,500 videos and images of the Raila Odinga memorial, Africa Eye finds that those killed were far from the scuffles.",
+      "links": [
+        "https://www.bbc.co.uk/news/articles/c962y4ld1d7do?at_medium=RSS&at_campaign=rss"
+      ]
     }
   ],
-  "narrative": "State of the World - 2026-10-26 (extractive mode)\n\n* Venezuela's opposition leader Mar\u00eda Corina Machado returns after months in exile (NPR Topics: World, 2 outlets)\n* Nurse killed in attack while responding to Ebola alert in DR Congo (BBC News, 2 outlets)\n* In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war (World | Deutsche Welle, 1 outlets)\n* Turkey's new deal on Mediterranean maritime boundaries with Libya is exacerbating issues with Greece and the EU (World | Deutsche Welle, 1 outlets)\n* Africa: African Development Bank Group Advances Sustainable Financing for Transboundary Waters At Iwc11 in Bali (AllAfrica News: Latest, 1 outlets)\n* Russia's attacks on Ukraine's capital, Kyiv, are intensifying. DW asked people on the ground what life is like (World | Deutsche Welle, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Why Russia's arrest of Japanese journalist is the latest sign of deteriorating ties between the countries. (World | Deutsche Welle, 1 outlets)\n* Venezuela: Opposition leader Machado returns from exile, received by thousands of supporters in Caracas (World | Deutsche Welle, 1 outlets)\n* Indonesia says gas export cuts to Singapore within contractual limits, pledges to honour obligations (Latest News, 1 outlets)\n* Kenya: Police Rescue 59 Ethiopians, Including Four-Year-Old Child, in Marsabit Smuggling Operation (AllAfrica News: Latest, 1 outlets)\n* Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement (BBC News, 1 outlets)"
+  "narrative": "State of the World - 2026-10-27 (extractive mode)\n\n* Co-ordinated cattle raids kill at least 72 people in South Sudan (BBC News, 2 outlets)\n* Palestinians are voting in Israel to ensure their very survival (Section Feed, 2 outlets)\n* In Bulgaria, record low voter turnout triggers a November 1 presidential run-off in a poll colored by divisions over Ukraine war (World | Deutsche Welle, 1 outlets)\n* Singapore, Indonesia setting up joint task force to probe firms linked to forest fires; hotlines to manage differences (Latest News, 1 outlets)\n* Ethiopia: Drought, Food Shortages and Child Malnutrition Deepen Humanitarian Needs in Afar, Amhara and Tigray (AllAfrica News: Latest, 1 outlets)\n* Uganda says it has no active Ebola cases, but infections in Kenya and Nigeria are prompting fresh scrutiny (World | Deutsche Welle, 1 outlets)\n* Election committee says no evidence of ballot tampering despite complaints from at least six parties (Section Feed, 1 outlets)\n* Ethiopia: At Least 48 Civilians Killed in Weekend Attacks in Ethiopia's Oromia Region, Once Again (AllAfrica News: Latest, 1 outlets)\n* ASEAN could take years to be ready for next major energy disruption: Philippine energy secretary (Latest News, 1 outlets)\n* Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement (BBC News, 1 outlets)\n* Malaysian who accessed 17 Singapore bank accounts for syndicate in S$4 million case gets jail (Latest News, 1 outlets)\n* Mourners killed by Kenya police at Odinga national farewell not part of violence, BBC finds (BBC News, 1 outlets)"
 }
